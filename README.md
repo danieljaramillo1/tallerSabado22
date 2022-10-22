@@ -2,6 +2,6 @@
 
 integrantes:
 
-#daniel alexander arenas gaviria
-#samuel perez 
-#daniel jaramillo
+# daniel alexander arenas gaviria
+# samuel perez 
+# daniel jaramillo
